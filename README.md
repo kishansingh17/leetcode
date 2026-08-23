@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kishansingh17/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/kishansingh17/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kishansingh0366/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -13,6 +14,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kishansingh17/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kishansingh0366/leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
