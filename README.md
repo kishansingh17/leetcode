@@ -24,6 +24,7 @@
 | [0704-binary-search](https://github.com/kishansingh0366/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kishansingh0366/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kishansingh0366/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kishansingh17/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishansingh17/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kishansingh17/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
