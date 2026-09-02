@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kishansingh17/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishansingh17/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishansingh0366/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/kishansingh17/leetcode/tree/master/0189-rotate-array) |
@@ -44,10 +45,15 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kishansingh17/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishansingh17/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/kishansingh17/leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kishansingh17/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kishansingh17/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
