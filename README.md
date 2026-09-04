@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/kishansingh17/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/kishansingh17/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kishansingh0366/leetcode/tree/master/0231-power-of-two) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kishansingh17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/kishansingh0366/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kishansingh0366/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kishansingh17/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kishansingh17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
