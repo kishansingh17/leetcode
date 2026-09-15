@@ -24,6 +24,7 @@
 | [0011-container-with-most-water](https://github.com/kishansingh17/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishansingh17/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kishansingh17/leetcode/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/kishansingh17/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/kishansingh17/leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishansingh0366/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/kishansingh17/leetcode/tree/master/0189-rotate-array) |
@@ -67,4 +68,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kishansingh17/leetcode/tree/master/0088-merge-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kishansingh17/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kishansingh17/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
