@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/kishansingh17/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/kishansingh17/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kishansingh0366/leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/kishansingh17/leetcode/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kishansingh17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
@@ -18,6 +19,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/kishansingh17/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kishansingh0366/leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/kishansingh17/leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -76,4 +78,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kishansingh17/leetcode/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kishansingh17/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kishansingh17/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
