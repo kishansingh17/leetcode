@@ -86,4 +86,20 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kishansingh17/leetcode/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kishansingh17/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kishansingh17/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kishansingh17/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kishansingh17/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
