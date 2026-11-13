@@ -93,6 +93,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishansingh17/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishansingh17/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishansingh17/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/kishansingh17/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,9 +113,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kishansingh17/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishansingh17/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishansingh17/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/kishansingh17/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/kishansingh17/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kishansingh17/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/kishansingh17/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
